@@ -289,37 +289,37 @@ h6 a:hover {
 	background-position:-40px 0;
 }
 #header .nav li.item1 a {
-	background-image:url(../images/m1.jpg);
+	background-image: url(../images/home.jpg);
 }
 #header .nav li.item2 a {
-	background-image:url(../images/m2.jpg);
+	background-image: url(../images/about_us.jpg);
 }
 #header .nav li.item3 a {
-	background-image:url(../images/m3.jpg);
+	background-image: url(../images/services.jpg);
 }
 #header .nav li.item4 a {
-	background-image:url(../images/m4.jpg);
+	background-image: url(../images/contact_us.jpg);
 }
 #header .nav li.item5 a {
-	background-image:url(../images/m5.jpg);
+	background-image: url(../images/training.jpg);
 }
 #header.small .nav li a {
 	height:211px;
 }
 #header.small .nav li.item1 a {
-	background-image:url(../images/m1-alt.jpg);
+	background-image: url(../images/home-alt.jpg);
 }
 #header.small .nav li.item2 a {
-	background-image:url(../images/m2-alt.jpg);
+	background-image: url(../images/about_us-alt.jpg);
 }
 #header.small .nav li.item3 a {
-	background-image:url(../images/m3-alt.jpg);
+	background-image: url(../images/Services-alt.jpg);
 }
 #header.small .nav li.item4 a {
-	background-image:url(../images/m4-alt.jpg);
+	background-image: url(../images/contact_us-alt.jpg);
 }
 #header.small .nav li.item5 a {
-	background-image:url(../images/m5-alt.jpg);
+	background-image: url(../images/training-alt.jpg);
 }
 .logo-box {
 	position:absolute;
