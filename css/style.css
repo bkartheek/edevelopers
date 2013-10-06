@@ -156,7 +156,8 @@ h1 a {
 	color:#fff;
 }
 h1 strong {
-	font-weight:500;
+	font-weight: 500;
+	font-size: 36px;
 }
 h2 {
 	font-size:30px;
@@ -322,13 +323,13 @@ h6 a:hover {
 	background-image: url(../images/training-alt.jpg);
 }
 .logo-box {
-	position:absolute;
-	left:295px;
-	top:70px;
-	text-align:center;
-	width:344px;
-	color:#fff;
-	z-index:2;
+	position: absolute;
+	left: 262px;
+	top: 72px;
+	text-align: center;
+	width: 424px;
+	color: #fff;
+	z-index: 2;
 }
 .logo-box p {
 	margin-bottom:24px;
